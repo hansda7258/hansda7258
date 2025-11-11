@@ -76,9 +76,9 @@ Below is an auto-updating "Top Languages" card (dark theme):
 
 ---
 ## ✉️ Contact
-- Email: `your-email@example.com`
-- LinkedIn: https://www.linkedin.com/in/<your-linkedin>
-- Portfolio / Website: https://<your-site>.com
+- Email: `johartudu7258@gmail.com`
+- LinkedIn: https://www.linkedin.com/in/raju-tudu-4742082r4/
+  <!-- - Portfolio / Website: https://<your-site>.com -->
 ---
 <p align="center">
   <i>Thanks for visiting — always open to collabs and freelance work!</i>
