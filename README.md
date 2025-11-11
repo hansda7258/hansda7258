@@ -8,8 +8,8 @@
 <p align="center">🚀 Passionate Developer | 🤖 AI/ML Enthusiast | 🌐 Full-Stack Developer</p>
 
 <p align="center">
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=<your-username>&label=Profile%20views&color=0e75b6" />
-  <img src="https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&theme=dark" alt="GitHub stats"/>
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=hansda7258&label=Profile%20views&color=0e75b6" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hansda7258&show_icons=true&theme=dark" alt="GitHub stats"/>
 </p>
 
 ---
